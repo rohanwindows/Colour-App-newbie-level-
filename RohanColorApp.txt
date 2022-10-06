@@ -1,0 +1,10 @@
+Colour App created by Rohan Pius, a self-taught developer for the Microsoft Windows Platform. 
+
+Programming essentials from: C# and .NET 4.7
+Target: ANY CPU
+Recommended System: WINDOWS 10
+Microsoft Security: PASSED
+Recommended configuration: ANY CONFIGURATION 
+
+Microsoft Visual Studio Community 2022
+
